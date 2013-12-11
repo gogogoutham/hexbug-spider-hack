@@ -13,7 +13,9 @@ web-client --> firebase --> imp agent --> imp device --> hexbug spider remote co
 
 <h3> Hardware Side Notes </h3>
 
-You can see our setup here - we used a small-bread board to connect an [April development board](http://devwiki.electricimp.com/doku.php?id=april) with a [Imp Dev Card](https://www.sparkfun.com/products/11395) to various jumper wires we'd soldered on to various end points of the circuit board. An overview of the Hexbug Spider Remote Controller's circuit board can be found [here](http://www.geotalisman.org/2012/10/30/hacking-hex-bug-spiders/).
+You can see our setup below - we used a small-bread board to connect an [April development board](http://devwiki.electricimp.com/doku.php?id=april) with a [Imp Dev Card](https://www.sparkfun.com/products/11395) to various jumper wires we'd soldered on to various end points of the circuit board. An overview of the Hexbug Spider Remote Controller's circuit board can be found [here](http://www.geotalisman.org/2012/10/30/hacking-hex-bug-spiders/).
+
+<img src="https://raw.github.com/gseshadri/hexbug-spider-hack/master/img/hexbug-spider-remote-to-imp.jpg"/>
 
 We actually did this twice, for two different remote controllers. Without hacking the hardware further, this was the effective maximum - the spider and its remote controller only support two distinct RF frequencies.
 
